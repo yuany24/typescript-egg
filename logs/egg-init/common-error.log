@@ -1,0 +1,1117 @@
+2018-05-02 14:56:06,565 ERROR 1931 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: Cannot read property 'User' of undefined
+    at HomeController.getUser (/Users/liuyuan/showcase/app/controller/user.ts:18:46)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 1931
+hostname: liuyuandeair
+
+2018-05-02 14:57:54,924 ERROR 1931 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read property 'User' of undefined
+    at HomeController.getUser (/Users/liuyuan/showcase/app/controller/user.ts:18:46)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 1931
+hostname: liuyuandeair
+
+2018-05-02 14:58:49,876 ERROR 1937 [-/127.0.0.1/-/7ms GET /] nodejs.TypeError: Cannot read property 'user' of undefined
+    at HomeController.getUser (/Users/liuyuan/showcase/app/controller/user.ts:17:45)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 1937
+hostname: liuyuandeair
+
+2018-05-02 14:59:23,039 ERROR 1938 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: Cannot read property 'user' of undefined
+    at HomeController.getUser (/Users/liuyuan/showcase/app/controller/user.ts:18:46)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 1938
+hostname: liuyuandeair
+
+2018-05-02 15:05:56,020 ERROR 1963 [-/127.0.0.1/-/7ms GET /] nodejs.TypeError: Cannot read property 'Address' of undefined
+    at HomeController.getUser (/Users/liuyuan/showcase/app/controller/user.ts:18:46)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 1963
+hostname: liuyuandeair
+
+2018-05-02 15:07:10,297 ERROR 1965 [-/127.0.0.1/-/12ms GET /] nodejs.TypeError: Cannot read property 'Address' of undefined
+    at HomeController.getUser (/Users/liuyuan/showcase/app/controller/user.ts:19:41)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 1965
+hostname: liuyuandeair
+
+2018-05-02 15:07:12,413 ERROR 1965 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read property 'Address' of undefined
+    at HomeController.getUser (/Users/liuyuan/showcase/app/controller/user.ts:19:41)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 1965
+hostname: liuyuandeair
+
+2018-05-02 17:03:59,338 ERROR 2865 [-/127.0.0.1/-/7ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'show' of undefined
+    at Object.exports.show (/Users/liuyuan/showcase/app/controller/user.ts:14:45)
+    at exports.show.next (<anonymous>)
+    at onFulfilled (/Users/liuyuan/showcase/node_modules/co/index.js:65:19)
+    at /Users/liuyuan/showcase/node_modules/co/index.js:54:5
+    at new Promise (<anonymous>)
+    at Object.co (/Users/liuyuan/showcase/node_modules/co/index.js:50:10)
+    at Object.createPromise (/Users/liuyuan/showcase/node_modules/co/index.js:30:15)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.objectControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:112:26)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+
+pid: 2865
+hostname: liuyuandeair
+
+2018-05-02 17:11:49,113 ERROR 2934 [-/127.0.0.1/-/9ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'show' of undefined
+    at Object.exports.show (/Users/liuyuan/showcase/app/controller/user.ts:14:45)
+    at exports.show.next (<anonymous>)
+    at onFulfilled (/Users/liuyuan/showcase/node_modules/co/index.js:65:19)
+    at /Users/liuyuan/showcase/node_modules/co/index.js:54:5
+    at new Promise (<anonymous>)
+    at Object.co (/Users/liuyuan/showcase/node_modules/co/index.js:50:10)
+    at Object.createPromise (/Users/liuyuan/showcase/node_modules/co/index.js:30:15)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.objectControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:112:26)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+
+pid: 2934
+hostname: liuyuandeair
+
+2018-05-02 17:15:42,079 ERROR 2952 [-/127.0.0.1/-/7ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'show' of undefined
+    at Object.exports.show (/Users/liuyuan/showcase/app/controller/user.ts:14:45)
+    at exports.show.next (<anonymous>)
+    at onFulfilled (/Users/liuyuan/showcase/node_modules/co/index.js:65:19)
+    at /Users/liuyuan/showcase/node_modules/co/index.js:54:5
+    at new Promise (<anonymous>)
+    at Object.co (/Users/liuyuan/showcase/node_modules/co/index.js:50:10)
+    at Object.createPromise (/Users/liuyuan/showcase/node_modules/co/index.js:30:15)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.objectControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:112:26)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+
+pid: 2952
+hostname: liuyuandeair
+
+2018-05-02 17:23:46,909 ERROR 2974 [-/127.0.0.1/-/7ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'show' of undefined
+    at Object.exports.show (/Users/liuyuan/showcase/app/controller/user.ts:14:45)
+    at exports.show.next (<anonymous>)
+    at onFulfilled (/Users/liuyuan/showcase/node_modules/co/index.js:65:19)
+    at /Users/liuyuan/showcase/node_modules/co/index.js:54:5
+    at new Promise (<anonymous>)
+    at Object.co (/Users/liuyuan/showcase/node_modules/co/index.js:50:10)
+    at Object.createPromise (/Users/liuyuan/showcase/node_modules/co/index.js:30:15)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.objectControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:112:26)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+
+pid: 2974
+hostname: liuyuandeair
+
+2018-05-02 18:08:12,006 ERROR 3227 [-/127.0.0.1/-/7ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'query' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:11:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:6:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 3227
+hostname: liuyuandeair
+
+2018-05-02 18:50:12,583 ERROR 3364 [-/127.0.0.1/-/11ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'User' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:9:30)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3364
+hostname: liuyuandeair
+
+2018-05-02 18:52:54,520 ERROR 3399 [-/127.0.0.1/-/10ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'User' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:9:30)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3399
+hostname: liuyuandeair
+
+2018-05-02 18:59:36,880 ERROR 3432 [-/127.0.0.1/-/8ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'User' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:14:43)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 3432
+hostname: liuyuandeair
+
+2018-05-02 19:00:30,684 ERROR 3456 [-/127.0.0.1/-/7ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:14:44)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 3456
+hostname: liuyuandeair
+
+2018-05-03 08:45:25,974 ERROR 3450 nodejs.ClusterClientNoResponseError: client no response in 48528385ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/liuyuan/showcase/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 3450
+hostname: liuyuandeair
+
+2018-05-03 09:02:56,463 ERROR 3450 nodejs.ClusterClientNoResponseError: client no response in 1030341ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/liuyuan/showcase/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 3450
+hostname: liuyuandeair
+
+2018-05-03 09:24:09,727 ERROR 3637 [-/127.0.0.1/-/9ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'query' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:14:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 3637
+hostname: liuyuandeair
+
+2018-05-03 09:32:57,963 ERROR 3660 [-/127.0.0.1/-/7ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'User' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:29)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3660
+hostname: liuyuandeair
+
+2018-05-03 09:33:49,591 ERROR 3664 [-/127.0.0.1/-/10ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'User' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:30)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3664
+hostname: liuyuandeair
+
+2018-05-03 09:34:28,269 ERROR 3666 [-/127.0.0.1/-/6ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'User' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:36)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3666
+hostname: liuyuandeair
+
+2018-05-03 09:35:45,120 ERROR 3682 [-/127.0.0.1/-/7ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'User' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:36)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3682
+hostname: liuyuandeair
+
+2018-05-03 09:37:45,873 ERROR 3686 [-/127.0.0.1/-/7ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'User' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:36)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3686
+hostname: liuyuandeair
+
+2018-05-03 09:48:16,124 ERROR 3757 [-/127.0.0.1/-/8ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'query' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:14:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:9:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 3757
+hostname: liuyuandeair
+
+2018-05-03 10:15:02,800 ERROR 3863 [-/127.0.0.1/-/15ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'query' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:14:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:6:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 3863
+hostname: liuyuandeair
+
+2018-05-03 10:40:17,333 ERROR 3982 [-/127.0.0.1/-/7ms GET /user] nodejs.TypeError: Cannot read property 'user' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:36)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3982
+hostname: liuyuandeair
+
+2018-05-03 10:41:04,519 ERROR 3986 [-/127.0.0.1/-/9ms GET /user] nodejs.TypeError: Cannot read property 'Address' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:36)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3986
+hostname: liuyuandeair
+
+2018-05-03 10:43:49,787 ERROR 3990 [-/127.0.0.1/-/7ms GET /user] nodejs.TypeError: Cannot read property 'Address' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:36)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 3990
+hostname: liuyuandeair
+
+2018-05-03 10:44:51,473 ERROR 4007 [-/127.0.0.1/-/11ms GET /user] nodejs.TypeError: Cannot read property 'user' of undefined
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:36)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+
+pid: 4007
+hostname: liuyuandeair
+
+2018-05-03 11:43:53,646 ERROR 4145 [-/127.0.0.1/-/8ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'query' of undefined
+    at NewsService.find (/Users/liuyuan/showcase/app/service/user.ts:33:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:6:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 4145
+hostname: liuyuandeair
+
+2018-05-03 13:07:47,705 ERROR 4297 [-/127.0.0.1/-/8ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'query' of undefined
+    at NewsService.find (/Users/liuyuan/showcase/app/service/user.ts:33:46)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:6:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 4297
+hostname: liuyuandeair
+
+2018-05-03 13:30:05,038 ERROR 4390 [-/127.0.0.1/-/8ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'find' of undefined
+    at NewsService.find (/Users/liuyuan/showcase/app/service/user.ts:33:46)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:6:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 4390
+hostname: liuyuandeair
+
+2018-05-03 13:33:41,844 ERROR 4424 [-/127.0.0.1/-/10ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'find' of undefined
+    at NewsService.find (/Users/liuyuan/showcase/app/service/user.ts:33:46)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:6:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 4424
+hostname: liuyuandeair
+
+2018-05-03 13:58:01,924 ERROR 4488 nodejs.TypeError: Cannot read property 'close' of undefined (uncaughtException throw 1 times on pid:4488)
+    at mongoose.connect (/Users/liuyuan/showcase/app/service/user.ts:56:16)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:319:19
+    at open (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:737:17)
+    at NativeConnection.Connection.onOpen (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:747:5)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:707:11
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:71:5
+    at /Users/liuyuan/showcase/node_modules/mongodb/lib/db.js:239:5
+    at Server.connectHandler (/Users/liuyuan/showcase/node_modules/mongodb/lib/server.js:324:7)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Server.emit (events.js:211:7)
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/topologies/server.js:300:14
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/connection/pool.js:469:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 4488
+hostname: liuyuandeair
+
+2018-05-03 14:11:17,355 ERROR 4572 nodejs.TypeError: Cannot read property 'collection' of undefined (uncaughtException throw 1 times on pid:4572)
+    at mongoose.connect (/Users/liuyuan/showcase/app/service/user.ts:40:20)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:319:19
+    at open (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:737:17)
+    at NativeConnection.Connection.onOpen (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:747:5)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:707:11
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:71:5
+    at /Users/liuyuan/showcase/node_modules/mongodb/lib/db.js:239:5
+    at Server.connectHandler (/Users/liuyuan/showcase/node_modules/mongodb/lib/server.js:324:7)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Server.emit (events.js:211:7)
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/topologies/server.js:300:14
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/connection/pool.js:469:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 4572
+hostname: liuyuandeair
+
+2018-05-03 14:12:08,289 ERROR 4595 nodejs.TypeError: Cannot read property 'collection' of undefined (uncaughtException throw 1 times on pid:4595)
+    at mongoose.connect (/Users/liuyuan/showcase/app/service/user.ts:40:20)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:319:19
+    at open (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:737:17)
+    at NativeConnection.Connection.onOpen (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:747:5)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:707:11
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:71:5
+    at /Users/liuyuan/showcase/node_modules/mongodb/lib/db.js:239:5
+    at Server.connectHandler (/Users/liuyuan/showcase/node_modules/mongodb/lib/server.js:324:7)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Server.emit (events.js:211:7)
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/topologies/server.js:300:14
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/connection/pool.js:469:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 4595
+hostname: liuyuandeair
+
+2018-05-03 14:25:16,519 ERROR 4631 nodejs.TypeError: Cannot read property 'collection' of undefined (uncaughtException throw 1 times on pid:4631)
+    at mongoose.connect (/Users/liuyuan/showcase/app/service/user.ts:40:20)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:319:19
+    at open (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:737:17)
+    at NativeConnection.Connection.onOpen (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:747:5)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:707:11
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:71:5
+    at /Users/liuyuan/showcase/node_modules/mongodb/lib/db.js:239:5
+    at Server.connectHandler (/Users/liuyuan/showcase/node_modules/mongodb/lib/server.js:324:7)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Server.emit (events.js:211:7)
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/topologies/server.js:300:14
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/connection/pool.js:469:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 4631
+hostname: liuyuandeair
+
+2018-05-03 14:26:07,008 ERROR 4645 nodejs.TypeError: Cannot read property 'collection' of undefined (uncaughtException throw 1 times on pid:4645)
+    at mongoose.connect (/Users/liuyuan/showcase/app/service/user.ts:40:20)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:319:19
+    at open (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:737:17)
+    at NativeConnection.Connection.onOpen (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:747:5)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:707:11
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:71:5
+    at /Users/liuyuan/showcase/node_modules/mongodb/lib/db.js:239:5
+    at Server.connectHandler (/Users/liuyuan/showcase/node_modules/mongodb/lib/server.js:324:7)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Server.emit (events.js:211:7)
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/topologies/server.js:300:14
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/connection/pool.js:469:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 4645
+hostname: liuyuandeair
+
+2018-05-03 14:26:41,576 ERROR 4670 nodejs.TypeError: Cannot read property 'collection' of undefined (uncaughtException throw 1 times on pid:4670)
+    at mongoose.connect (/Users/liuyuan/showcase/app/service/user.ts:40:20)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:319:19
+    at open (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:737:17)
+    at NativeConnection.Connection.onOpen (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:747:5)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:707:11
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:71:5
+    at /Users/liuyuan/showcase/node_modules/mongodb/lib/db.js:239:5
+    at Server.connectHandler (/Users/liuyuan/showcase/node_modules/mongodb/lib/server.js:324:7)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Server.emit (events.js:211:7)
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/topologies/server.js:300:14
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/connection/pool.js:469:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 4670
+hostname: liuyuandeair
+
+2018-05-03 14:27:28,985 ERROR 4703 nodejs.TypeError: Cannot read property 'collection' of undefined (uncaughtException throw 1 times on pid:4703)
+    at mongoose.connect (/Users/liuyuan/showcase/app/service/user.ts:40:20)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:319:19
+    at open (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:737:17)
+    at NativeConnection.Connection.onOpen (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:747:5)
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:707:11
+    at /Users/liuyuan/showcase/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:71:5
+    at /Users/liuyuan/showcase/node_modules/mongodb/lib/db.js:239:5
+    at Server.connectHandler (/Users/liuyuan/showcase/node_modules/mongodb/lib/server.js:324:7)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Server.emit (events.js:211:7)
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/topologies/server.js:300:14
+    at /Users/liuyuan/showcase/node_modules/mongodb-core/lib/connection/pool.js:469:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+pid: 4703
+hostname: liuyuandeair
+
+2018-05-03 15:26:34,022 ERROR 4927 nodejs.TypeError: db.collection(...).then is not a function
+    at mongodb.connect.then (/Users/liuyuan/showcase/app/service/user.ts:37:22)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 4927
+hostname: liuyuandeair
+
+2018-05-03 15:43:05,547 ERROR 5054 [-/127.0.0.1/-/8ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'query' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:12:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 5054
+hostname: liuyuandeair
+
+2018-05-03 15:46:02,962 ERROR 5085 [-/127.0.0.1/-/14ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'query' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:12:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 5085
+hostname: liuyuandeair
+
+2018-05-03 15:50:34,334 ERROR 5096 [-/127.0.0.1/-/9ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'query' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:12:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 5096
+hostname: liuyuandeair
+
+2018-05-03 15:50:58,654 ERROR 5112 [-/127.0.0.1/-/6ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:12:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 5112
+hostname: liuyuandeair
+
+2018-05-03 15:54:59,693 ERROR 5116 [-/127.0.0.1/-/17ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:13:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 5116
+hostname: liuyuandeair
+
+2018-05-03 16:05:27,043 ERROR 5219 [-/127.0.0.1/-/14ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:13:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 5219
+hostname: liuyuandeair
+
+2018-05-03 16:21:46,179 ERROR 5280 [-/127.0.0.1/-/12ms GET /user/5a31f1cf981184af1b31b91c] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:13:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 5280
+hostname: liuyuandeair
+
+2018-05-04 13:40:34,758 ERROR 8441 [-/127.0.0.1/-/8ms GET /user] nodejs.TypeError: Cannot read property 'address' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:15:43)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 8441
+hostname: liuyuandeair
+
+2018-05-04 13:48:47,762 ERROR 8463 [-/127.0.0.1/-/8ms GET /user] nodejs.TypeError: Cannot read property 'address' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:14:43)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 8463
+hostname: liuyuandeair
+
+2018-05-04 14:09:09,548 ERROR 8567 [-/127.0.0.1/-/15ms GET /user] nodejs.TypeError: Cannot read property 'address' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:15:43)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 8567
+hostname: liuyuandeair
+
+2018-05-04 14:09:09,910 ERROR 8567 [-/127.0.0.1/-/2ms GET /user] nodejs.TypeError: Cannot read property 'address' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:15:43)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 8567
+hostname: liuyuandeair
+
+2018-05-04 14:16:29,496 ERROR 8577 [-/127.0.0.1/-/9ms GET /user] nodejs.TypeError: Cannot read property 'address' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:15:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 8577
+hostname: liuyuandeair
+
+2018-05-04 15:06:16,790 ERROR 8682 [-/127.0.0.1/-/8ms GET /user] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/liuyuan/showcase/node_modules/egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/liuyuan/showcase/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/liuyuan/showcase/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at /Users/liuyuan/showcase/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/liuyuan/showcase/node_modules/koa-session/index.js:41:13)
+
+pid: 8682
+hostname: liuyuandeair
+
+2018-05-04 15:08:09,398 ERROR 8683 [-/127.0.0.1/-/7ms GET /user] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/liuyuan/showcase/node_modules/egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/liuyuan/showcase/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/liuyuan/showcase/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at /Users/liuyuan/showcase/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/liuyuan/showcase/node_modules/koa-session/index.js:41:13)
+
+pid: 8683
+hostname: liuyuandeair
+
+2018-05-04 15:09:05,264 ERROR 8685 [-/127.0.0.1/-/6ms GET /user] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/liuyuan/showcase/node_modules/egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/liuyuan/showcase/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/liuyuan/showcase/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at /Users/liuyuan/showcase/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/liuyuan/showcase/node_modules/koa-session/index.js:41:13)
+
+pid: 8685
+hostname: liuyuandeair
+
+2018-05-04 15:10:32,971 ERROR 8690 [-/127.0.0.1/-/6ms GET /user] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/liuyuan/showcase/node_modules/egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/liuyuan/showcase/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/liuyuan/showcase/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at /Users/liuyuan/showcase/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/liuyuan/showcase/node_modules/koa-session/index.js:41:13)
+
+pid: 8690
+hostname: liuyuandeair
+
+2018-05-04 15:11:12,186 ERROR 8692 [-/127.0.0.1/-/4ms GET /user] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/liuyuan/showcase/node_modules/egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/liuyuan/showcase/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/liuyuan/showcase/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at /Users/liuyuan/showcase/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/liuyuan/showcase/node_modules/koa-session/index.js:41:13)
+
+pid: 8692
+hostname: liuyuandeair
+
+2018-05-04 15:12:52,083 ERROR 8693 [-/127.0.0.1/-/5ms GET /user] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/liuyuan/showcase/node_modules/egg/lib/application.js:314:15)
+    at Object.get cookies [as cookies] (/Users/liuyuan/showcase/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/liuyuan/showcase/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/liuyuan/showcase/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at /Users/liuyuan/showcase/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/liuyuan/showcase/node_modules/koa-session/index.js:41:13)
+
+pid: 8693
+hostname: liuyuandeair
+
+2018-05-04 15:13:20,260 ERROR 8694 [-/127.0.0.1/-/8ms GET /user] nodejs.TypeError: Cannot read property 'address' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:15:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 8694
+hostname: liuyuandeair
+
+2018-05-04 15:14:08,549 ERROR 8696 [-/127.0.0.1/-/7ms GET /user] nodejs.TypeError: Cannot read property 'address' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:15:40)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 8696
+hostname: liuyuandeair
+
+2018-05-04 15:15:04,428 ERROR 8699 [-/127.0.0.1/-/9ms GET /user] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:15:45)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 8699
+hostname: liuyuandeair
+
+2018-05-04 15:23:29,092 ERROR 8771 [-/127.0.0.1/-/12ms GET /user] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:16:45)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:43:18)
+    at i18n (/Users/liuyuan/showcase/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+
+pid: 8771
+hostname: liuyuandeair
+
+2018-05-06 10:18:32,944 ERROR 12791 [-/127.0.0.1/-/8ms GET /user] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:18:42)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:43:18)
+    at i18n (/Users/liuyuan/showcase/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+
+pid: 12791
+hostname: liuyuandeair
+
+2018-05-06 10:19:03,934 ERROR 12793 [-/127.0.0.1/-/9ms GET /user] nodejs.TypeError: Cannot read property 'find' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:18:42)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:7:49)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/liuyuan/showcase/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/liuyuan/showcase/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/liuyuan/showcase/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:43:18)
+    at i18n (/Users/liuyuan/showcase/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/Users/liuyuan/showcase/node_modules/koa-compose/index.js:42:32)
+
+pid: 12793
+hostname: liuyuandeair
+
+2018-05-06 11:31:04,911 ERROR 13276 [-/127.0.0.1/-/20ms GET /user] nodejs.TypeError: Cannot read property 'user_name' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:52:24)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 13276
+hostname: liuyuandeair
+
+2018-05-06 11:31:36,944 ERROR 13278 [-/127.0.0.1/-/26ms GET /user] nodejs.TypeError: Cannot read property 'user_name' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:53:24)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 13278
+hostname: liuyuandeair
+
+2018-05-06 11:32:23,437 ERROR 13281 [-/127.0.0.1/-/20ms GET /user] nodejs.TypeError: Cannot read property 'user_name' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:53:24)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 13281
+hostname: liuyuandeair
+
+2018-05-06 12:39:01,520 ERROR 13471 nodejs.unhandledRejectionError: Invalid mongodb uri "mongodb:////192.168.3.248:27017/rsc_main". Missing hostname
+    at muri (/Users/liuyuan/showcase22/node_modules/muri/lib/index.js:71:11)
+    at NativeConnection.Connection._handleOpenArgs (/Users/liuyuan/showcase22/node_modules/mongoose/lib/connection.js:199:16)
+    at NativeConnection.<anonymous> (/Users/liuyuan/showcase22/node_modules/mongoose/lib/connection.js:309:37)
+    at NativeConnection.deprecated [as open] (internal/util.js:52:15)
+    at Mongoose.connect (/Users/liuyuan/showcase22/node_modules/mongoose/lib/index.js:268:47)
+    at NativeConnection.<anonymous> (/Users/liuyuan/showcase22/app/service/user.ts:20:14)
+    at emitNone (events.js:106:13)
+    at NativeConnection.emit (events.js:208:7)
+    at NativeConnection.set (/Users/liuyuan/showcase22/node_modules/mongoose/lib/connection.js:120:12)
+    at Server.<anonymous> (/Users/liuyuan/showcase22/node_modules/mongoose/lib/connection.js:840:26)
+    at emitOne (events.js:121:20)
+    at Server.emit (events.js:211:7)
+    at Server.<anonymous> (/Users/liuyuan/showcase22/node_modules/mongodb/lib/server.js:276:14)
+    at emitOne (events.js:116:13)
+    at Server.emit (events.js:211:7)
+    at Pool.<anonymous> (/Users/liuyuan/showcase22/node_modules/mongodb-core/lib/topologies/server.js:350:12)
+name: 'unhandledRejectionError'
+pid: 13471
+hostname: liuyuandeair
+
+2018-05-08 12:43:37,589 ERROR 974 nodejs.unhandledRejectionError: Invalid mongodb uri "mongodb:////192.168.3.248:27017/rsc_main". Missing hostname
+    at muri (/Users/liuyuan/showcase/node_modules/muri/lib/index.js:71:11)
+    at NativeConnection.Connection._handleOpenArgs (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:199:16)
+    at NativeConnection.<anonymous> (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:309:37)
+    at NativeConnection.deprecated [as open] (internal/util.js:52:15)
+    at Mongoose.connect (/Users/liuyuan/showcase/node_modules/mongoose/lib/index.js:268:47)
+    at NativeConnection.<anonymous> (/Users/liuyuan/showcase/app/service/user.ts:20:14)
+    at emitNone (events.js:106:13)
+    at NativeConnection.emit (events.js:208:7)
+    at NativeConnection.set (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:120:12)
+    at Server.<anonymous> (/Users/liuyuan/showcase/node_modules/mongoose/lib/connection.js:840:26)
+    at emitOne (events.js:121:20)
+    at Server.emit (events.js:211:7)
+    at Server.<anonymous> (/Users/liuyuan/showcase/node_modules/mongodb/lib/server.js:276:14)
+    at emitOne (events.js:116:13)
+    at Server.emit (events.js:211:7)
+    at Pool.<anonymous> (/Users/liuyuan/showcase/node_modules/mongodb-core/lib/topologies/server.js:350:12)
+name: 'unhandledRejectionError'
+pid: 974
+hostname: liuyuandeair
+
+2018-05-08 12:43:44,897 ERROR 968 nodejs.ClusterClientNoResponseError: client no response in 1809113ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/liuyuan/showcase/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 968
+hostname: liuyuandeair
+
+2018-05-08 12:55:43,259 ERROR 968 nodejs.ClusterClientNoResponseError: client no response in 678334ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/liuyuan/showcase/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:475:11)
+    at tryOnTimeout (timers.js:310:5)
+    at Timer.listOnTimeout (timers.js:270:5)
+name: 'ClusterClientNoResponseError'
+pid: 968
+hostname: liuyuandeair
+
+2018-05-08 14:34:12,662 ERROR 1264 [-/127.0.0.1/-/55ms GET /user] nodejs.TypeError: next is not a function
+    at Object.sendData (/Users/liuyuan/showcase/config/config_common.ts:19:9)
+    at UserController.info (/Users/liuyuan/showcase/app/controller/user.ts:8:23)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 1264
+hostname: liuyuandeair
+

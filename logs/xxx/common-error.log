@@ -1,0 +1,24 @@
+2018-05-09 14:33:38,015 ERROR 3201 [-/127.0.0.1/-/215ms GET /user] nodejs.TypeError: Cannot read property 'config' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:12:34)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 3201
+hostname: liuyuandeair
+
+2018-05-09 14:34:47,930 ERROR 3201 [-/127.0.0.1/-/16ms GET /user] nodejs.TypeError: Cannot read property 'config' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:12:34)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 3201
+hostname: liuyuandeair
+
+2018-05-09 14:36:15,980 ERROR 3215 [-/127.0.0.1/-/49ms GET /user] nodejs.TypeError: Cannot read property 'config' of undefined
+    at UserService.find (/Users/liuyuan/showcase/app/service/user.ts:12:34)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 3215
+hostname: liuyuandeair
+
